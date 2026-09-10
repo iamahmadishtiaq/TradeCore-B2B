@@ -21,7 +21,7 @@ An enterprise-grade B2B Wholesale Marketplace engineered with **Laravel 11**, de
 
 | Layer | Technologies |
 | :--- | :--- |
-| **Backend Framework** | Laravel 11 (PHP 8.2+) |
+| **Backend Framework** | Laravel 13 (PHP 8.2+) |
 | **Frontend & Reactivity** | Blade Components, Tailwind CSS, Alpine.js |
 | **Real-time WebSockets** | Laravel Reverb, Laravel Echo, Pusher JS |
 | **Cache & Queue Driver** | Redis |
